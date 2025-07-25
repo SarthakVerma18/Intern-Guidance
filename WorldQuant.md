@@ -1,7 +1,7 @@
 ### ✍️ Test Pattern
 
-There was one online test of **120 mins**. It had 2 sections of 12 questions each on **Olympiad/JEE level mathematics (probability, statistics, geometry, puzzles, games etc), dsa concepts and AI/ML**. Majority of the questions were of math though. 
-1st section had MCQs with single and multiple options correct questions. The 2nd section has numerical based questions.
+There was one online test of **120 mins**. It had 2 sections of 12 questions each on **Olympiad/JEE level mathematics (probability, statistics, geometry, puzzles, games etc), DSA concepts and AI/ML**. Majority of the questions were of math though. 
+1st section had MCQs with single and multiple options correct questions. The 2nd section had numerical based questions.
 
 There were no programming questions :)
 
