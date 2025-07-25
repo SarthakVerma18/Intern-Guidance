@@ -29,7 +29,7 @@ There were **4 rounds of interviews**:
 1. **Round 1: Resume Questioning**  
    - So for me I had a Trading Project with a Quant firm on my resume , he asked me a lot of questions regarding that, How does Trading work, what is Stop Loss how is it beneficial/when it isnt (in an illiquid market).Questions regarding Technical analysis and trading different derivatives etc.
    - Then he asked me questions regarding the recent event that took place which was the Jane Street ban in 2025(For peeps reading this after do read about it), How exactly they were manipulating the market(hiking price and selling put options) and making huge amounts of money.Had to explain from the basics as that's what he was looking for.  
-     👉 So make sure to go through ur resume thoroughly and be aware if eny big recent events that may have taken place.
+     👉 So make sure to go through ur resume thoroughly and be aware of any big recent events that may have taken place.
 
 2. **Round 2: Probab and Bonds related questions**  
    - Focused on **Probabilty questions**, some dice questions a markov chain question.If you have done the books mentioned below you should be fine,try to explain to the interviewer your thought process as well if a question is taking time.  
