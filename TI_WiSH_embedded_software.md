@@ -1,53 +1,53 @@
 
-# Texas Instruments WiSH - Women in Semiconductors and Hardware
+# Texas Instruments WiSH- Embedded Software
 
 ## Overview
 
-Texas Instruments has a summer mentorship program for girls who have just finished their second year of college called **WiSH - Women in Semiconductors and Hardware**.  
-WiSH is a month-long mentorship process having sessions from **9 AM to 5 PM, five days a week for a month** — the first 3 weeks are online, and the last week takes place offline in the TI office in Bangalore.  
-Through a combination of **weekly tests, assignments, and a final presentation** at the end of the program, some of the girls in the mentorship program are given a **pre-intern offer for the next year** — so if you're a girl, and you know you're core enthu, then TI WiSH is a really good option to get a good internship sorted without having to sit for the whole process.
+Texas Instruments has a summer mentorship program for girls who have just finished their second year of college called WiSH- Women in Semiconductors and Hardware.  
+WiSH is a month-long mentorship process having sessions from 9 AM to 5 PM, five days a week for a month- the first 3 weeks are online, and the last week takes place offline in the TI office in Bangalore.  
+Through a combination of weekly tests, assignments, and a final presentation at the end of the program, some of the girls in the mentorship program are given a pre-intern offer for the next year- so if you're a girl, and you know you're core enthu, then TI WiSH is a really good option to get a good internship sorted without having to sit for the whole process.
 
-However, I will also mention that if you are planning to try for other **non-core profiles** too, TI WiSH has 2 drawbacks:
-1. Once you get a TI pre-intern offer you're **barred from sitting for the internship process on campus**.
-2. You also **lose a lot of preparation time for non-core profiles**, considering WiSH will take up most of your day for an entire month — so be sure that this is something you want before applying.
+However, I will also mention that if you are planning to try for other non-core profiles too, TI WiSH has 2 drawbacks:
+1. Once you get a TI pre-intern offer you're barred from sitting for the internship process on campus.
+2. You also lose a lot of preparation time for non-core profiles, considering WiSH will take up most of your day for an entire month- so be sure that this is something you want before applying.
 
 ---
 
 ## Preparation
 
-As part of preparation, I'm going to cover both the preparation needed for the **WiSH selection test and interview**, as well as what preparation to do **during the sessions to get a pre-intern offer**.
+As part of preparation, I'm going to cover both the preparation needed for the WiSH selection test and interview, as well as what preparation to do during the sessions to get a pre-intern offer.
 
 ---
 
 ## WiSH Test
 
-We were given the choice of applying for **hardware**, **embedded software**, or **both** — we were asked to give a preference order for the two profiles.  
+We were given the choice of applying for hardware, embedded software, or both- we were asked to give a preference order for the two profiles.  
 The test had 3 sections:  
-- **45 minutes for math**  
-- **45 minutes for electronics**  
-- **30 minutes for software**
+- 45 minutes for math
+- 45 minutes for electronics  
+- 30 minutes for software
 
-**Mathematics:** probability, P&C, basic logical questions, etc.  
-**Electronics:** passive circuits, boolean logic, network theory, semiconductor physics, MOS, OpAmps etc.  
-**Software:** basics of C, OOPS, DSA, etc.  
-The marking scheme was **+1, -0.25**. I don't remember the exact questions, but they were mostly simple.
+Mathematics: probability, P&C, basic logical questions, etc.  
+Electronics: passive circuits, boolean logic, network theory, semiconductor physics, MOS, OpAmps etc.  
+Software: basics of C, OOPS, DSA, etc.  
+The marking scheme was +1, -0.25. I don't remember the exact questions, but they were mostly simple.
 
 ---
 
 ## WiSH Interview
 
 Based on our performance in the test, some of us were rejected, some were shortlisted for hardware, and some for embedded software.  
-My interview was pretty straightforward — I was asked about some of the **projects** I'd listed on my resume, some of the **experiments from MUP lab** (I had mentioned the MQTT protocol, so she asked me to elaborate on that), to **predict the output of a given C code snippet** — and that was pretty much it.
+My interview was pretty straightforward- I was asked about some of the projects I'd listed on my resume, some of the experiments from MUP lab (I had mentioned the MQTT protocol, so she asked me to elaborate on that), to predict the output of a given C code snippet- and that was pretty much it.
 
 ---
 
 ## WiSH Program
 
-The WiSH program had a **weekly test every Saturday**, and a **surprise quiz** sometime during the week.  
+The WiSH program had a weekly test every Saturday, and a surprise quiz sometime during the week.  
 This was all based on syllabus that was taught during the sessions themselves.
 
-In addition to this, we also had a **design thinking project** — we were divided into groups and each group was given a problem statement.  
-We had to come up with a **solution**, figure out the **features of the device and how we'd implement it**, along with what **ICs and chips** we'd use to design this and justify our choices, and indicate the **protocols/connections** we'd make along with the **PCB design** or a **prototype of the product** itself.  
-We had to **present this project on the final day** of the program and we were evaluated on this as well.
+In addition to this, we also had a design thinking project- we were divided into groups and each group was given a problem statement.  
+We had to come up with a solution, figure out the features of the device and how we'd implement it, along with what ICs and chips we'd use to design this justifying our choices, and indicate the protocols/connections we'd make along with the PCB design or a prototype of the product itself.  
+We had to present this project on the final day of the program and we were evaluated on this as well.
 
-It was primarily our **test scores** and the **design thinking presentation**, along with our **participation in the sessions** and **interaction with the mentors** assigned to each group that determined getting a **pre-intern offer**.
+It was primarily our test scores and the design thinking presentation, along with our participation in the sessions and interaction with the mentors assigned to each group that determined getting a pre-intern offer.
