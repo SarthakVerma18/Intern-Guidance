@@ -1,4 +1,4 @@
-### ✍️ Test Pattern
+### ✍️ Test Pattern(Gave both trading and quant test together )
 
 There was one test which was **quite lengthy but very basic**.  
 They will probably expect almost **100% accuracy** as the test is pretty easy.
