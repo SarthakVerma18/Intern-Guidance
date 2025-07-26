@@ -1,4 +1,5 @@
 🧪 Test Pattern
+
 The test had two parts for the Quant Trading role:
 
   1. Sequences Section (26 Qs in 25 minutes)
@@ -14,6 +15,7 @@ For FPGA/Software roles, the test included:
   One coding question
 
 🗣️ Group Discussion (GD) Pattern
+
 One key thing to understand: GD is not just about getting the correct answer. They're evaluating:
 
   1. Your ability to communicate clearly
@@ -39,6 +41,7 @@ Tips:
   3. Don’t dominate — make sure to include others. Be logical, structured, and calm under pressure
 
 💬 Interview Pattern
+
 The technical interview revolved around a market-making / betting game.
 
 Format:
@@ -67,6 +70,7 @@ They may ask estimation questions:
 You're expected to answer these in under 30 seconds — it’s about intuition, not precision.
 
 🧠 What I Did Well vs. Could’ve Done Better
+
 I ended with a 3000 coin profit, which is decent, but here’s what I could improve:
 
   1. Didn’t use all 15 events — not enough time to calculate every EV
@@ -78,6 +82,7 @@ I ended with a 3000 coin profit, which is decent, but here’s what I could impr
 Tip: They don’t expect perfection. But they do want to see how you reason and how well you can learn from your mistakes — so explain everything you're thinking out loud.
 
 🧑‍💼 Behavioral Round
+
 Optiver takes behavioral interviews seriously — they’ve even rejected candidates without a technical round due to a poor behavioral fit.
 
 Format:
