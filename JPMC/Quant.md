@@ -137,10 +137,16 @@ He informed me that this role does not match with my interests (the first guy mu
 
 3) During an interview, it is your responsibility to maintain the flow and decorum of the interview.  
 > Keep a smile on your face and keep thinking out loud. It just does impress them.
-
 4) Start focusing on interns as soon as you can. Don't delay that.  
 5) Try to have your CGPA >= 8.5 (preferably > 9). A lot of companies have test cutoffs at 8.5.
 
 ---
 
 ### 🎯 At last, enjoy the process and Good luck!!!
+
+
+### 📎 P.S.:
+Below is the link to almost all of the resources I used for Quant (except websites). Use it.  
+Try to complete the stuff which I didn't.
+
+https://drive.google.com/drive/folders/1V23snHZPqcICctRKnv1ByYOGcSRmpfTO?usp=sharing
