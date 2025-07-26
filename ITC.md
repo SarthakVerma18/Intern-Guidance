@@ -1,5 +1,5 @@
 ### ✍️ Test Pattern
-Above 8.9 was required to write the test as well, try to have CG high
+Above 8.9 was required to write the test as well, try to have CG high \n
 Gamified testing done,Questions were of the type to just test your iq, all were easy tests to pass.
 Test had 4 sections of questions and each section has time limit of 6 minutes -
 1) Numerical Section : They had given around 7 different types of graphs, we have to take inference from the graph and answer the questions given , there were 18 statements given which we have to allot them into 3 categories - True,False or can't say, There was even an option to skip the question and move on to the next question.
