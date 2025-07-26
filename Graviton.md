@@ -1,9 +1,11 @@
 ✍️ Test Pattern
+
 One hour pen-paper test with 4 questions. You are supposed to write descriptive answers like RMO/INMO so basically just be extremely good at maths. The problems are mostly proability based.
 
 They weren’t expecting you to solve everything. I did 3/4 problems.
 
 👥 Interview Pattern
+
 The interview had 3 rounds -
 Round 1: Pure maths questions maybe linear algebra, probability anything. The questions are hard and do not freak out if you cannot solve by yourself they do not expect you to.
 They keep giving hints and they want to assess how fast you pick uo those hints and arrive to the answer.
