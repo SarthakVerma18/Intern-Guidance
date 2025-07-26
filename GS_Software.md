@@ -23,14 +23,15 @@ why I chose to do something at every single step, then I had to explain some pro
 Round 3:
 Third round was with some main guy, and the question was an interesting one, here it is:
 You have some currency exchange system, such that
+
 INR:GDP :: 120:1
 USD:INR :: 85:1
 GDP:USD :: 1:0.85
+
 (Please forgive me if the numbers dont make sense, i dont remember the q exactly)
 Now the first question was if you could make a profit given this data.
 
-The second question was, given n different currencies with their conversions specified, could you find all the different starting currencies from which 
-you could make a profit, and you had to write a code for it.
+The second question was, given n different currencies with their conversions specified, could you find all the different starting currencies from which you could make a profit, and you had to write a code for it.
 The question is very similar to https://www.youtube.com/watch?v=V8DGdPkBBxg&t=1287s.
 
 
