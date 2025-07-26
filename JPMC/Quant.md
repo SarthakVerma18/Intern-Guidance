@@ -104,6 +104,7 @@ B) Websites:
   - *Open Quant*
   - *Arithmetic Zetamac*
   - For the last 2 weeks: Paid------>*Tradermath.org*
+  - Lumosity app helped a lot to increase my reaction time. It helped a lot in IMC Test, which I cleared and got to the GD
 
 3) DSA:
 A) Practice:
@@ -114,4 +115,25 @@ B) Theory and doubts:
   - *GeeksForGeeks*
 
 ---
+###  Mistakes:
+1)Should have concentrated more on Speed Math, and the Optiver's Beat the Odds test(available on TraderMath.org). Failed miserably in that in the tests of Flow Traders, Da Vinci, and Optiver. 
+2)More than that, consider practicing market making and games like that. Personally, I never practiced those and failed pitiably in IMC GD. Don't repeat this mistake.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
