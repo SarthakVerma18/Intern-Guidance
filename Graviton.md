@@ -18,9 +18,13 @@ Round 3: This was again maths. I was fully drained after so much of intensive ma
 TIP- There is only one tip. Don't give up. Ask for more hints but do not say I cannot do this. They want to see your breaking point so do not give them a chance to see it.
 
 📚 Resources Used
+
   Brainstellar
+  
   50 Challenging Problems in Probability
+  
   Heard on the Street
+  
   The Green Book
 
 TL;DR-
