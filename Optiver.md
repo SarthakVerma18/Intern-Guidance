@@ -102,12 +102,15 @@ Tips:
   Support every trait you claim with concrete examples.
 
 📚 Resources I Used
-  Brainstellar
-  PuzzledQuant
-  QuantGuide.io
+
+  Brainstellar, PuzzledQuant, QuantGuide.io
+  
   50 Challenging Problems in Probability
+  
   Heard on the Street
+  
   The Green Book (Paul Wilmott-style finance)
+  
   Estimation practice - Mug up facts like: Population of Sydney, height of  burj Khalifa, length of the nile, etc
   (They might ask you to make a market on such things)
 
