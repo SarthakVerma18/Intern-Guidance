@@ -97,7 +97,7 @@ Sample Questions:
   Resume-related and situational questions
 
 Tips:
-  Be smartly honest — don’t try to bluff, they’ll know.
+  Be smartly honest — don’t try to bluff, these are highly experienced HRs they’ll know.
   They ask follow-ups on everything.
   Support every trait you claim with concrete examples.
 
