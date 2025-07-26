@@ -1,4 +1,5 @@
-Test Shortlist - Everyone who applied got shortlist for the test (open to all departments), I dont think there was any CGPA cutoff.
+$Test Shortlist 
+Everyone who applied got shortlist for the test (open to all departments), I dont think there was any CGPA cutoff.
 
 Test - The test was one hour long, and had 3 math questions, 3 coding questions, one hr question where you had to give an essay answer, 5-6 questions
 on CS fundamentals (Implementation of data structures, OOPS etc). The difficulty of the test wasnt too hard, but time was very less, so speed was important.
