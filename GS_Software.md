@@ -19,7 +19,7 @@ The she asked some hr questions based on my resume (my resume was elec heavy, so
 ## Round 2
 The second round I had to implement a class for a cab service like uber, where I had to take input data as coordinates for the cabs, and had to write a practical
 algorithm on how I would assign a cab to a passenger, I was asked to make it as practical as possible, and also then modify the algorithm for different types
-of cabs etc. He was very particular on the type of data structures I used to different data and the different functions in used in the class. I had to justify 
+of cabs etc. He was very particular on the type of data structures I used for different data and the different functions used in the class. I had to justify 
 why I chose to do something at every single step, then I had to explain some project I had in my resume (like properly grilled lol).
 
 ## Round 3
@@ -27,7 +27,7 @@ Third round was with some main guy, and the question was an interesting one, her
 You have some currency exchange system, such that
 
 INR:GDP :: 120:1
-USD:INR :: 85:1
+USD:INR :: 1:85
 GDP:USD :: 1:0.85
 
 (Please forgive me if the numbers dont make sense, i dont remember the q exactly)
