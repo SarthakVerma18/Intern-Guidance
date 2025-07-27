@@ -38,6 +38,7 @@
 The most important thing is to ensure your probability, quantitative basics and communication skills are strong. Taking part in several mock (or real) quant interviews will give you ample practice for these roles. 
 A collection of commonly cited useful resources for such roles are:
 * Brainstellar
+* Course notes from some probab course in Insti - I used EE3110
 * Heard on the Street
 * 50 Challenging Problems in Probability
 * Neetcode.io
@@ -51,7 +52,7 @@ A collection of commonly cited useful resources for such roles are:
 * While there might be a significant component of luck associated with the intern season, the efforts you put in will make your intern season smoother and more fruitful. Don't feel you aren't "smart" enough, there is nearly no role of said "smartness" in the kind of offer you can get.
 * TL;DR - The sky is the limit, but only your confidence and efforts can take you there.
 * Also, be very clear about the kind of roles you want to be a part of in your career. There is no point in applying for companies and roles you ultimately are not interested in working in, because it draws out prep time from roles you actually are interested in.
-* 
+  
 ---
 
 
