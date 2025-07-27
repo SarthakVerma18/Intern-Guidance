@@ -1,4 +1,4 @@
-# 🚀 JPMC SGEP Internship (EE’23 && CS’23)
+# 🚀 JPMC SGEP Internship
 
 ---
 
