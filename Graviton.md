@@ -3,6 +3,8 @@
 One hour pen-paper test with 4 questions. You are supposed to write descriptive answers like RMO/INMO so basically just be extremely good at maths. The problems are mostly proability based.
 
 They weren’t expecting you to solve everything. I did 3/4 problems.
+![WhatsApp Image 2025-07-21 at 10 10 25_7e57162f](https://github.com/user-attachments/assets/fd0d3b7c-957e-4d3a-b567-150c23389c01)
+
 
 👥 Interview Pattern
 
