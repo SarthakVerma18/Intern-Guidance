@@ -1,7 +1,7 @@
 
 # Bain True North Scholarship for Women
 
-Bain TNS is a selection process for female students who have just finished their second year to explore consulting. It consists of an essay + resume based shortlisting round, a test, and then a series of interviews.
+Bain TNS is a selection process for female students who have just finished their second year to explore consulting. It consists of an essay + resume based shortlisting round, a test, and then a series of interviews. Selected True North scholars get a 75k scholarship, along with a pre-intern offer for next year.
 
 ## Round 1: Essay + Resume
 This round is really important for not just Bain TNS, but all consulting firms in general. Consulting firms look for 'peaks' in your resume. A peak is something differentiating you from the other applicants- it could be a high CGPA, a research project (UGRC or YRF), a leadership role in a POR (quite often Saarang/Shaastra), or being in an inter-IIT team. I'd suggest reaching out to me (I'm Medha from EE23), or any other senior whom you know who got a consulting firm shortlist and checking out their resume / asking them to verify yours. Consult firms are primarily looking for a well-rounded applicant with a diverse skillset, and your resume should reflect that. Also, for TNS specifically, the essay is quite important. It's a 400 word essay on 'What does true north mean to you?'.
