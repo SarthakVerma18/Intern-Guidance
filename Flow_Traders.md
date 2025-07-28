@@ -8,7 +8,8 @@ There were 2 online tests.
   
 **Section-2**: Series questions.
   - There were **26 questions to be solved in 25 mins**. 
-  - **+1** for correct answer, **-1** for wrong.
+  - **+1** for correct answer, **-1** for wrong.\
+  - You can choose to skip questions and come back to solve them later. 
 
 There were no programming questions :)
 
@@ -17,6 +18,7 @@ There were no programming questions :)
 - If you are an **NTSE scholar** or have **cleared aptitude exams**, you are at an advantage.
 - **Have a good night's sleep**, so that you are able to **focus** better during the tests. Most importantly **be calm**.
 - I did not practice any resources for the tests, but I have heard of this thing called 'Zetamac' after giving the test. There are also a bunch of resources online if you **just type 80 in 8** on google. Same goes for practising series questions.
+- Its advisable not to guess answers to questions in the series section. You can always just skip and do later if you have time. 
 
 ### 👥 Interview Pattern
 - There were **2 rounds of interviews**, both online. 
