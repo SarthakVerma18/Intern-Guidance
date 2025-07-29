@@ -22,7 +22,9 @@ There were no programming questions :)
 ---
 ### 👥 Interview Pattern
 - There were **2 rounds of interviews**, both online. 
-- The rounds were **focused on Probability and Expectation Value**. 
+- The rounds were **focused on Probability and Expectation Value**.
+- The 2nd round is a case round, where you are provided with some money and are asked about your strategy of investment for a set of events with some odds that they would provide
+- Note that in both rounds, they expect you to be clear with the very basics of probability, even more so than other quants such as JS or Optiver. 
 - Be very clear with your **resume**, the **past projects and internships** that you have done. In case you have done a **finance project**, especially in the area of Quant Research, be prepared to **answer any sorts of questions** on it.
 - Speak out your thoughts, and answer stuff **intuitively**. 
 
@@ -44,7 +46,7 @@ For the interviews, you can refers to resources like:
 
 - Always speak your thoughts out. 
 - Try to solve questions **intuitively**.
-- Be very comfortable with **theoretical topics of probability** — basically anything taught in **EEProbab or MAProbab** should be on your tips. That helps *a lot* in interviews.
+- Be very comfortable with **theoretical topics of probability** — basically anything taught in **EE Probab or MA Probab** should be on your tips. That helps *a lot* in interviews.
 - Don't go **silent** in the interview. If there’s any question you feel you don’t know the answer to, you can always try:
   - Asking for **hints**
   - Attempting it anyway — the interviewer will often **guide you**
